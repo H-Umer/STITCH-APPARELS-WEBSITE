@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Announce-one{
+    display: flex;
+}
+.Announce-two{
+    display: flex;
+
+}
+.Announce-three{
+    display: flex;
+
+}
+.Announcement{
+    display: flex;
+    justify-content: space-evenly;
+}
+.Announce-images{
+    width: 23px;
+    height: 25px;
+    padding-left: 5px;
+}
+.Announcement{
+    border: 1px solid black;
+    background-color:rgb(215, 210, 210);    
+}
+h1{
+    text-align: center;
+    margin-top: 40px;
+}
+.navbar li {
+    float: left;
+    list-style-type: none;
+    margin:55px -359px;
+}
+.navbar ul {
+    overflow: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+.navbar li a {
+    text-decoration: none;
+    padding: 3px 3px;
+}
+.btn-get{
+    padding: 7px 33px;
+    display: block;
+    margin: auto;
+    border-radius: 20px;
+    background-color: rgb(145 150 155 / 75%);
+    font-size:15px;
+    font-weight: 400;
+    margin-top: 30px;
+}
+.quest{
+    text-align: center;
+    margin-top: 50px;
+}
+.paragraph{
+    margin:40px 117px;
+}
+.paragraph-two{
+    margin:0px 117px;
+}
+.image{
+    width: 300px;
+    height: 400px;
+}
+.image-section{
+    text-align: center;
+}
+.land{
+    width: 1000px;
+    height: 400px;
+    
+}
+.landscape{
+    text-align: center;
+}
+.news{
+    display: flex;
+    align-items: center;
+}
+.left{
+    width: 419px;
+    height: 238px;
+}
+.right{
+    width: 600px;
+    height: 238px;
+}
+.news-two{
+    margin: 0 40px;
+}
+.news{
+    text-align: center;
+    margin-left: 90px;
+}
+form{
+    margin-top: 50px;
+}
+.market{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.Sales{
+       margin-bottom: 30px;
+}
+.resize{
+    width: 20px;
+}
+.main-footer{
+    display: flex;
+    justify-content: space-around;
+    margin: 90px 20px;
+}
+.last-class{
+    justify-content: space-around;
+    display: flex;
+    margin-bottom: 20px;
+}
